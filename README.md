@@ -1,7 +1,8 @@
 ![Banner](https://i.ibb.co/258dsY4/Marc-Becker-Banner.png)
 
-> Business Process Manager with coding experience, based in Cologne//GER . 
+Business Process Manager with coding experience, based in Cologne//GER . 
 
+---
 ### 👨🏼‍🔧 Services:
 
 - Process analysis
@@ -12,7 +13,7 @@
 - Front-End-Development
 - SAP Customizing (PM)
 
-
+---
 ### 👨🏼‍💻Tech-Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
