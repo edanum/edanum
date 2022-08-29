@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/258dsY4/Marc-Becker-Banner.png" />
 </p>
 
-```Business Process Manager with coding experience, based in Cologne//GER . 
+Business Process Manager with coding experience, based in Cologne//GER . 
 
 ### 👨🏼‍🔧 Services:
 
@@ -21,7 +21,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-```
+
 
 
 
