@@ -1,4 +1,4 @@
-<div style="text-align: right"> ### Marc Becker </div>### Marc Becker
+### Marc Becker
 
 Hallo Fremder, zur Zeit setze ich mich mit dem Thema Web-Development auseinander. Dies beinhaltet:
 
