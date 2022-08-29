@@ -2,7 +2,7 @@
 
 Business Process Manager with coding experience, based in Cologne//GER . 
 
-## Services:
+### Services:
 
 - Process analysis
 - Process design
@@ -12,7 +12,7 @@ Business Process Manager with coding experience, based in Cologne//GER .
 - SAP Customizing (PM)
 
 
-## Tech-Stack
+### Tech-Stack
 
 - HTML
 - CSS
