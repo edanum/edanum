@@ -1,8 +1,8 @@
 ### Marc Becker
 
-Business Process Manager with coding experience. 
+Business Process Manager with coding experience, based in Cologne//GER . 
 
-Services:
+##Services:
 
 - Process analysis
 - Process design
@@ -12,7 +12,7 @@ Services:
 - SAP Customizing (PM)
 
 
-Tech-Stack
+##Tech-Stack
 
 - HTML
 - CSS
