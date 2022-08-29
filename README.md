@@ -1,4 +1,4 @@
-<p align="center">![profilepic](https://i.ibb.co/258dsY4/Marc-Becker-Banner.png)</p>
+![profilepic](https://i.ibb.co/258dsY4/Marc-Becker-Banner.png)
 
 ```Business Process Manager with coding experience, based in Cologne//GER . 
 
