@@ -2,17 +2,18 @@
 
 Business Process Manager with coding experience, based in Cologne//GER . 
 
-### Services:
+### 👨🏼‍🔧 Services:
 
 - Process analysis
 - Process design
+- Process automation
 - Requirement Engineering
 - UI/UX
 - Front-End-Development
 - SAP Customizing (PM)
 
 
-### Tech-Stack
+### 👨🏼‍💻Tech-Stack
 
 - HTML
 - CSS
