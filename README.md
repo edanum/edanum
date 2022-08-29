@@ -23,4 +23,4 @@ Business Process Manager with coding experience, based in Cologne//GER 🇩🇪 
 
 
 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=edanum&count_private=true&show_icons=true&include_all_commits=true)
